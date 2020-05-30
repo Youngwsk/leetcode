@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 import java.util.Arrays;
 /**
  * 合并两个有序数组
