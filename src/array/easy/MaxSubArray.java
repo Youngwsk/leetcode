@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 
 /**
  * 最大子序和
