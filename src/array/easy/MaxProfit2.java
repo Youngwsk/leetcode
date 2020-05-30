@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 /**
  *  买卖股票的最佳时机 II
  *
