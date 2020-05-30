@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 /**
  * 找出数组中的幸运数
  *
