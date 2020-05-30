@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 /**
  * @author wsk
  * @date 2020/5/25 17:21
