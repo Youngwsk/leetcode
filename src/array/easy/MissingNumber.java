@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 /**
  * 消失的数字
  *
